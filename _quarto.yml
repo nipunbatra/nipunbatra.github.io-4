@@ -8,14 +8,6 @@ website:
     right:
       - href: index.qmd
         text: About
-      - href: grading.qmd
-        text: Grading Policy
-      - href: faq.qmd
-        text: FAQs
-      - href: schedule.qmd
-        text: Schedule
-      - href: quizzes.qmd
-        text: Quizzes
 
 
 format:
