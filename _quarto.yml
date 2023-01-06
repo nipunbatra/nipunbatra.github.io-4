@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "ES654"
+  title: "Nipun Batra"
   navbar:
     right:
       - href: index.qmd
@@ -16,8 +16,6 @@ website:
         text: Schedule
       - href: quizzes.qmd
         text: Quizzes
-      - href: https://nipunbatra.github.io
-        text: Instructor Homepage
 
 
 format:
