@@ -7,7 +7,7 @@ website:
   navbar:
     right:
       - href: index.qmd
-        text: Home
+        text: About
       - href: grading.qmd
         text: Grading Policy
       - href: faq.qmd
